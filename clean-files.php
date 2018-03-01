@@ -11,7 +11,7 @@ $clean_button = "";
     <h1 style="margin-bottom: 30px;">Junk Files Check</h1>
     <input type="submit" name="check" value="Run Check" />
     <?php if($input->post->check) :?>
-        <input type="submit" name="clean" value="Clen Up Files" />
+        <input type="submit" name="clean" value="ClenUp Files" />
     <?php endif;?>
 </form>
 
